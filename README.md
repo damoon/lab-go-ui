@@ -9,3 +9,4 @@
 - gogl does a lot more then the other examples and used around 5% cpu (and some gpu i asume)
 - shiny as an experimantal module is no longer maintained
 - oak and goki each maintain a fork of shiny
+- fyne uses about 3-5% cpu idle
